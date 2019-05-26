@@ -3,6 +3,12 @@
     padding: 0 15px;
   }
   
-  .footer {
+.footer {
     background-color: #f5f5f5;
   }
+
+.logostyle {
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Questrial', sans-serif;
+    letter-spacing: 0.5ch;
+}
